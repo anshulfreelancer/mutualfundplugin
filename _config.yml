@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: iTattva
+title: Mutual Fund Plugin
 email: exponenthash@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  We build strinkingly awesome websites for web and mobile. 
+  We build strinkingly awesome wordpress plugins. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://itattva.in" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: anshul81
+url: "https://mutualfundplugin.icom" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: anshul81
 github_username:  anshulfreelancer
 
 # Build settings
